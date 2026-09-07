@@ -1,7 +1,7 @@
 <img src="./assets/banner.png" alt="Banner do perfil de Willian Rezende">
 <br>
 # Eu sou o Willian Rezende. 👋
-<br>
+
 **Front-End Developer in progress.**
 
 Sou desenvolvedor em formação e atualmente estou entrando na área de tecnologia, com foco em **Front-End**.
