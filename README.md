@@ -40,4 +40,7 @@ Estudos e exercícios práticos de HTML e CSS, documentando meu processo de apre
 
 ### Projetos
 
+Ainda não tenho projetos publicados nesta categoria.  
+Estou construindo minha base através dos estudos e exercícios práticos e, conforme evoluir, novos projetos serão adicionados aqui.
+
 ### Projetos maiores
