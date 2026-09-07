@@ -28,3 +28,13 @@ Aprendendo a utilizar versionamento e organizar meus projetos.
 
 **JavaScript**  
 Próxima etapa da minha formação em Front-End.
+
+## O que estou construindo
+
+Projetos e estudos que fazem parte da minha formação em desenvolvimento.
+
+### Estudos
+
+### Projetos
+
+### Projetos maiores
