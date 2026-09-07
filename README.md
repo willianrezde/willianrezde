@@ -43,6 +43,15 @@ Estudos e exercícios práticos de HTML e CSS, documentando meu processo de apre
 Ainda não tenho projetos publicados nesta categoria.  
 Estou construindo minha base através dos estudos e exercícios práticos e, conforme evoluir, novos projetos serão adicionados aqui.
 
+## Tecnologias & Ferramentas que estou estudando
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub">
+</p>
+
 ## Criação além do código
 
 Eu não sou alguém que pensa apenas em código.
