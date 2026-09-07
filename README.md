@@ -1,10 +1,10 @@
 <img src="./assets/banner.png" alt="Banner do perfil de Willian Rezende">
-<br>
+
 # Eu sou o Willian Rezende. 👋
 
 **Front-End Developer in progress.**
 
-Sou desenvolvedor em formação e atualmente estou entrando na área de tecnologia, com foco em **Front-End**.
+Sou desenvolvedor em formação e estou construindo minha trajetória na área de tecnologia, com foco em **Front-End**.
 
 Gosto de entender como as coisas funcionam, não apenas aprender a fazer. Meu objetivo é construir uma base sólida, transformar o que estudo em projetos e evoluir de forma consistente.
 
@@ -43,4 +43,14 @@ Estudos e exercícios práticos de HTML e CSS, documentando meu processo de apre
 Ainda não tenho projetos publicados nesta categoria.  
 Estou construindo minha base através dos estudos e exercícios práticos e, conforme evoluir, novos projetos serão adicionados aqui.
 
-### Projetos maiores
+## Criação além do código
+
+Eu não sou alguém que pensa apenas em código.
+
+Também gosto de design, desenho, edição de imagens e criação visual. Já trabalhei com design para mídias sociais e quero continuar desenvolvendo esse lado, explorando ferramentas como Figma e Blender.
+
+**Gosto de estar entre esses dois mundos:** a lógica da programação e a parte visual da criação.
+
+Não sou especialista nessas áreas, mas são coisas que fazem parte dos meus interesses e que quero continuar aprendendo.
+
+Acredito que essa mistura também influencia a forma como penso e construo meus projetos.
