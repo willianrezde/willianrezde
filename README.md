@@ -15,3 +15,16 @@ Tecnologia, jogos, arte e criação são algumas das coisas que mais me interess
 Aqui você vai encontrar meus **estudos, projetos e um pouco da minha evolução**. Também gosto de documentar o processo — incluindo erros, limitações, aprendizados e o que estou fazendo para melhorar.
 
 **Seja bem-vindo ao meu perfil.**
+
+## Atualmente estudando
+
+**HTML & CSS**  
+Construindo minha base em Front-End através de estudos e projetos práticos.
+
+**Git & GitHub**  
+Aprendendo a utilizar versionamento e organizar meus projetos.
+
+### Próximo passo
+
+**JavaScript**  
+Próxima etapa da minha formação em Front-End.
