@@ -35,6 +35,9 @@ Projetos e estudos que fazem parte da minha formação em desenvolvimento.
 
 ### Estudos
 
+[**Front-End — Curso**](https://github.com/willianrezde/estudos-front-end)  
+Estudos e exercícios práticos de HTML e CSS, documentando meu processo de aprendizado e evolução.
+
 ### Projetos
 
 ### Projetos maiores
